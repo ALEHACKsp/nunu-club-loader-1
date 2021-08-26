@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (vaper.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  antidump.cpp
+C:\Users\USER\Desktop\high shit\lets goo\L\Loader Base\antidump.cpp(10,9): warning C4163: '__readgsqword': not available as an intrinsic function
+  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\USER\Desktop\high shit\lets goo\L\Loader Base\antidump.cpp(10,9): warning C4163: '__readgsqword': not available as an intrinsic function
+C:\Users\USER\Desktop\high shit\lets goo\L\Loader Base\main.cpp(269,8): warning C4101: 'driverdetect': unreferenced local variable
+C:\Users\USER\Desktop\high shit\lets goo\L\Loader Base\main.cpp(241,8): warning C4101: 'detect': unreferenced local variable
+  tool.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\USER\Desktop\high shit\lets goo\L\Loader Base\tool.cpp(119,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\high shit\lets goo\L\Loader Base\tool.cpp(126,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  282 of 661 functions (42.7%) were compiled, the rest were copied from previous compilation.
+    245 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Loader Base.vcxproj -> C:\Users\USER\Desktop\high shit\lets goo\L\Release\Nunu.exe
